@@ -1,0 +1,96 @@
+body {
+  background-color: #000;
+  color: #fff;
+  font-family: "DM Sans", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Sidebar */
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 280px;
+  background-color: #121212;
+  padding: 20px;
+}
+
+/* Conteúdo principal */
+.content {
+  margin-left: 300px;
+  padding: 40px;
+  padding-bottom: 80px; /* espaço pro rodapé */
+}
+
+/* Header com título e busca lado a lado */
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+.header h1 {
+  font-size: 24px;
+  margin: 0;
+}
+
+/* Campo de busca e botão em linha */
+.search-area {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex: 1;
+}
+
+#search-input {
+  flex: 1;
+  padding: 10px;
+  border-radius: 6px;
+  border: none;
+  font-size: 14px;
+}
+
+#search-button {
+  padding: 14px 32px;
+  background-color: #1db954;
+  border: none;
+  border-radius: 8px;
+  color: #fff;
+  font-weight: 600;
+  font-size: 16px;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  margin-left: 10px;
+  margin-top: 20px; /* 👈 isso afasta o botão do topo */
+}
+
+/* Rodapé fixo */
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 300px;
+  right: 0;
+  background-color: #121212;
+  padding: 20px 40px;
+  border-top: 1px solid #333;
+}
+
+.footer ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  margin: 0;
+  padding: 0;
+}
+
+.footer ul li a {
+  color: #b3b3b3;
+  text-decoration: none;
+  font-size: 14px;
+}
