@@ -1,0 +1,80 @@
+[
+    {
+        "nome": "JavaScript",
+        "descricao": "JavaScript é uma linguagem de programação para web, com suporte a programação funcional e orientada a objetos baseada em protótipos.",
+        "ano": 1995,
+        "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+    },
+    {
+        "nome": "Python",
+        "descricao": "Python é uma linguagem de alto nível, interpretada, com foco em legibilidade e produtividade.",
+        "ano": 1991,
+        "link": "https://www.python.org/"
+    },
+    {
+        "nome": "Java",
+        "descricao": "Java é uma linguagem orientada a objetos, muito usada em aplicações empresariais e Android.",
+        "ano": 1995,
+        "link": "https://www.java.com/pt-BR/"
+    },
+    {
+        "nome": "C",
+        "descricao": "C é uma linguagem procedural de baixo nível, amplamente utilizada para sistemas operacionais e bibliotecas de alto desempenho.",
+        "ano": 1972,
+        "link": "https://en.wikipedia.org/wiki/C_(programming_language)"
+    },
+    {
+        "nome": "C++",
+        "descricao": "C++ é uma extensão de C com suporte a objetos e programação genérica, usada em aplicações de alto desempenho.",
+        "ano": 1985,
+        "link": "https://isocpp.org/"
+    },
+    {
+        "nome": "C#",
+        "descricao": "C# é uma linguagem orientada a objetos desenvolvida pela Microsoft para a plataforma .NET.",
+        "ano": 2000,
+        "link": "https://learn.microsoft.com/dotnet/csharp/"
+    },
+    {
+        "nome": "PHP",
+        "descricao": "PHP é uma linguagem de scripts voltada para desenvolvimento web do lado do servidor.",
+        "ano": 1995,
+        "link": "https://www.php.net/"
+    },
+    {
+        "nome": "Ruby",
+        "descricao": "Ruby é uma linguagem dinâmica e orientada a objetos, conhecida pela sintaxe legível e pelo framework Rails.",
+        "ano": 1995,
+        "link": "https://www.ruby-lang.org/pt/"
+    },
+    {
+        "nome": "Go",
+        "descricao": "Go (Golang) é uma linguagem compilada, simples e concorrente, criada pelo Google para sistemas e serviços escaláveis.",
+        "ano": 2009,
+        "link": "https://go.dev/"
+    },
+    {
+        "nome": "Rust",
+        "descricao": "Rust é uma linguagem focada em segurança de memória e performance, popular em desenvolvimento de sistemas.",
+        "ano": 2010,
+        "link": "https://www.rust-lang.org/"
+    },
+    {
+        "nome": "TypeScript",
+        "descricao": "TypeScript é um superconjunto tipado de JavaScript que adiciona tipos estáticos opcionais.",
+        "ano": 2012,
+        "link": "https://www.typescriptlang.org/"
+    },
+    {
+        "nome": "Swift",
+        "descricao": "Swift é uma linguagem desenvolvida pela Apple para desenvolvimento iOS/macOS moderna e segura.",
+        "ano": 2014,
+        "link": "https://developer.apple.com/swift/"
+    },
+    {
+        "nome": "Kotlin",
+        "descricao": "Kotlin é uma linguagem moderna para JVM e Android, com sintaxe concisa e interoperabilidade com Java.",
+        "ano": 2011,
+        "link": "https://kotlinlang.org/"
+    }
+]
